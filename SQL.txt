@@ -1,0 +1,4 @@
+ SQL->managing data in a relational database
+    -> allow its users to read, manipulate, and change data
+    -> databases, tables are organized in schemas
+    ->
